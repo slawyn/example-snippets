@@ -1,1 +1,1 @@
-# example-snippets
+Some snippets for various elements of programming.
